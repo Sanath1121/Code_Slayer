@@ -1,0 +1,6 @@
+.env
+docker.env
+node_modules/
+/utils/compiler/codes/
+/utils/compiler/inputs/
+/utils/compiler/outputs/
